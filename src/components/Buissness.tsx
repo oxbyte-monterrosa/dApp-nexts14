@@ -43,7 +43,7 @@ const Business: React.FC = () => (
         Pioneering DeFi Solutions, <br className="sm:block hidden" /> Innovations Unleashed.
       </h2>
       <p className={`${styles.paragraph} max-w-[570px] mt-5`}>
-        Unlock Financial Opportunities with Composable Corp's DeFi Solutions in the Vast Sea of Web3 Choices.
+        Unlock Financial Opportunities with Composable Corp&apos;s DeFi Solutions in the Vast Sea of Web3 Choices.
       </p>
 
       <Button text="Explore Solutions" styles={`mt-10`} />

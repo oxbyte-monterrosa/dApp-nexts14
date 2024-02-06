@@ -13,7 +13,7 @@ const SmartContract: FC = () => {
             Engage with Our Smart Contracts
           </h1>
           <p className="font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px] max-w-[470px]">
-            Are you a developer? Let's connect!
+            Are you a developer? Let&apos;s connect!
           </p>
           <DocumentationTabs />
         </div>
