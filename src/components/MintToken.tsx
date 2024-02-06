@@ -2,7 +2,7 @@
 
 import React, { useState, FormEvent } from 'react';
 import { useContractWrite, useAccount } from 'wagmi';
-import abi from '@/contracts/stTBY_MockERC20.json';
+import abi from '@/Contracts/stTBY_MockERC20.json';
 import { Input, ConnectButtomCustom } from '@/components';
 
 const contractAddress: string = process.env.NEXT_PUBLIC_CONTRACT_ADDRESS as string;
