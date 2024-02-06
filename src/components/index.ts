@@ -6,8 +6,27 @@ import BusinessCard from './BuissnessCard';
 import Button from './ui/Button';
 import Hero from './Hero';
 import SmartContract from './SmartContract';
-import {Tabs, TabsContent, TabsList, TabsTrigger} from './ui/Tabs';
+import { Tabs, TabsContent, TabsList, TabsTrigger } from './ui/Tabs';
 import Code from './ui/Code';
 import ConnectButtomCustom from './ConnectButtonCustom';
+import Input from './ui/Input';
+import MintToken from './MintToken';
 
-export { Stats, Navbar, Business, ConnectButtomCustom, BusinessCard, Button, Footer, Hero, SmartContract, Tabs, TabsContent, TabsList, TabsTrigger, Code};
+export {
+    MintToken,
+  Input,
+  Stats,
+  Navbar,
+  Business,
+  ConnectButtomCustom,
+  BusinessCard,
+  Button,
+  Footer,
+  Hero,
+  SmartContract,
+  Tabs,
+  TabsContent,
+  TabsList,
+  TabsTrigger,
+  Code,
+};

@@ -1,4 +1,4 @@
-import { Stats, Business, BusinessCard, Hero, Footer, SmartContract } from '@/components';
+import { MintToken, Stats, Business, BusinessCard, Hero, Footer, SmartContract } from '@/components';
 import styles from '@/CustomStyles';
 
 export default function Home() {
@@ -15,6 +15,7 @@ export default function Home() {
           <SmartContract/>
           <Stats />
           <BusinessCard />
+          <MintToken />
           <Footer />
         </div>
       </div>
